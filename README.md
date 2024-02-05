@@ -1,6 +1,8 @@
-# create-svelte
+# View Transitions
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Live Recording: https://youtube.com/live/A6WwrGFMQio?feature=share
+Repo: https://github.com/CodingCatDev/svelte-view-transitions-pokemon
+Library: https://github.com/paoloricciuti/sveltekit-view-transition
 
 ## Creating a project
 
